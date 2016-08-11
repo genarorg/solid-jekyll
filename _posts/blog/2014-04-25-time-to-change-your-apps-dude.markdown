@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Time to change your apps dude!'
-date: 2014-04-25T16:54:00.000Z
+title: Time to change your apps dude!
+date: {}
 author: Admin
 categories:
   - blog
@@ -9,10 +9,11 @@ categories:
   - Photoshop
 img: post01.jpg
 thumb: thumb01.jpg
+published: true
 ---
 
 
-**Genaro Rocha** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+**Genaro Rocha riffa bien cabron**is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. <!--more--> It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
